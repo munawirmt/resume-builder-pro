@@ -203,7 +203,7 @@ def view_resume():
     <body>
         <div class="btn-container">
             <button class="btn-print" onclick="window.print()">📥 DOWNLOAD AS PDF</button>
-            <a class="btn-share" href="https://whatsapp.com, I have generated my professional resume using Resume Builder Pro app! Please check it out." target="_blank">💬 SHARE ON WHATSAPP</a>
+            <a class="btn-share" href="https://wa.me/?text=I have generated my professional resume using Resume Builder Pro app! Please check it out." target="_blank">💬 SHARE ON WHATSAPP</a>
         </div>
 
         <div class="header-container">
